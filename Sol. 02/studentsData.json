@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1001,
+        "name": "Aakash",
+        "class": 11,
+        "branch": "Commerce"
+    },
+    {
+        "id": 1002,
+        "name": "Shubham",
+        "class": 12,
+        "branch": "Science"
+    },
+    {
+        "id": 1003,
+        "name": "Abhishek",
+        "class": 12,
+        "branch": "Commerce"
+    },
+    {
+        "id": 1004,
+        "name": "Amit",
+        "class": 11,
+        "branch": "Arts"
+    },
+    {
+        "id": 1005,
+        "name": "Rohan",
+        "class": 12,
+        "branch": "Arts"
+    },
+    {
+        "id": 1006,
+        "name": "James",
+        "class": 11,
+        "branch": "Commerce"
+    }
+]

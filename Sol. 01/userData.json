@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1001,
+        "username": "aakashmathur",
+        "firstname": "Aakash",
+        "lastname": "Mathur",
+        "password": "1234abcd"
+    },
+    {
+        "id": 1002,
+        "username": "shubhamsoni",
+        "firstname": "Shubham",
+        "lastname": "Soni",
+        "password": "1234efgh"
+    },
+    {
+        "id": 1003,
+        "username": "abhishekjain",
+        "firstname": "Abhishek",
+        "lastname": "Jain",
+        "password": "1234ijkl"
+    },
+    {
+        "id": 1004,
+        "username": "amitagarwal",
+        "firstname": "Amit",
+        "lastname": "Agarwal",
+        "password": "1234mnop"
+    },
+    {
+        "id": 1005,
+        "username": "rohanjangid",
+        "firstname": "Rohan",
+        "lastname": "Jangid",
+        "password": "1234qrst"
+    },
+    {
+        "id": 1006,
+        "username": "jamesmatthews",
+        "firstname": "James",
+        "lastname": "Matthews",
+        "password": "1234uvwx"
+    }
+]
